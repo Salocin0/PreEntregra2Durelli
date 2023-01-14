@@ -1,7 +1,6 @@
 import ItemListContainer from './ItemListContainer'
 import { Route, Routes } from "react-router-dom"
 import ItemDetailContainer from "./ItemDetailContainer"
-import CartWidget from "./CartWidget"
 
 const Main = () => {
     return (
